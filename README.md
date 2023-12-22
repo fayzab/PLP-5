@@ -36,7 +36,7 @@ While C++ does not have standard methods for functions that serve a similar purp
     };
     
     std::ostream& operator<<(std::ostream& os, const Dog & dog) {
-        os << "Meet " << dog.name << ", he is a " << dog.age << " year-old dog!";
+        os << "This is " << dog.name << ", he is a " << dog.age << " year-old dog!";
         return os;
     }
     
