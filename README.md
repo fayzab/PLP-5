@@ -1,4 +1,4 @@
-# PLP 5: Classes and Inheritance
+# PLP 5 Classes and Inheritance
 
 
 C++ is an object oriented language which supports objects, classes, and structures. Classes are user-defined data types which hold their own data members and member functions. Objects are instances of classes which can be used to access data. Structures are similar to classes in the sense that they are user-defined data types which hold their own data members and member functions except that the members of a structure are public by default; classes are private by default. 
